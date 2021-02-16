@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8201019b68b07fedf9b005c2b8a53e85cfe22891",
+    "author": "Carson <cpsievert1@gmail.com>",
+    "time": "2021-02-16 15:58:38",
+    "files": 1,
+    "merge": false,
+    "message": "update news\n"
+  },
+  "remote": "https://github.com/ropensci/plotly",
+  "pkg": "plotly"
+}
